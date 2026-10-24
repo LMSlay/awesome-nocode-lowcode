@@ -475,6 +475,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 
 - [Awesome Vibe Coding](https://github.com/taskade/awesome-vibe-coding) - A curated list of 245+ tools, platforms, and resources for vibe coding — building software through natural language prompts.
 - [Benian n8n Automation Catalog](https://benian-technologies.github.io/automation-templates/) - Searchable n8n workflow examples with setup guides and four runnable walkthroughs using fictional data.
+- [TubeText video-hooks workflow walkthrough](https://github.com/LMSlay/tubetext-examples/blob/main/n8n/assets/walkthrough.mp4) - 114-second silent, captioned static-diagram walkthrough of an n8n video-analysis-to-Google-Sheets workflow, with success/error branching and retry cautions. Not a live run; execution uses a paid Apify Actor and may incur other service charges.
 
 ## Blog Posts
 
